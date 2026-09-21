@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><playerstats>
+	<privacyState>public</privacyState>
+	<visibilityState>3</visibilityState>
+	<game>
+		<gameFriendlyName><![CDATA[1245620]]></gameFriendlyName>
+		<gameName><![CDATA[ELDEN RING]]></gameName>
+		<gameLink><![CDATA[https://steamcommunity.com/app/1245620]]></gameLink>
+		<gameIcon><![CDATA[https://shared.fastly.steamstatic.com/community_assets/images/apps/1245620/b6e290dd5a92ce98f89089a207733c70c41a1871.jpg]]></gameIcon>
+		<gameLogo><![CDATA[https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1245620/capsule_184x69.jpg?t=1789162449]]></gameLogo>
+		<gameLogoSmall><![CDATA[https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1245620/capsule_184x69.jpg?t=1789162449]]></gameLogoSmall>
+	</game>
+	<player>
+		<steamID64>76561199079949101</steamID64>
+		<customURL><![CDATA[]]></customURL>
+	</player>
+	<stats>
+		<hoursPlayed>0</hoursPlayed>
+	</stats>
+	<achievements>
+		<achievement closed="0">
+			<iconClosed><![CDATA[https://shared.fastly.steamstatic.com/community_assets/images/apps/1245620/1cb1fe89084e822bd7d9ad4df66bc7f917995b38.jpg]]></iconClosed>
+			<iconOpen><![CDATA[https://shared.fastly.steamstatic.com/community_assets/images/apps/1245620/172885dcb6a82300de9f34e8833afdf7d7cd24e1.jpg]]></iconOpen>
+			<name><![CDATA[Elden Ring]]></name>
+			<apiname><![CDATA[ach00]]></apiname>
+			<description><![CDATA[Obtained all achievements]]></description>
+		</achievement>
+		<achievement closed="0">
+			<iconClosed><![CDATA[https://shared.fastly.steamstatic.com/community_assets/images/apps/1245620/e50726be4aca4d2b1f5f14d36859fc8e6f710097.jpg]]></iconClosed>
+			<iconOpen><![CDATA[https://shared.fastly.steamstatic.com/community_assets/images/apps/1245620/172885dcb6a82300de9f34e8833afdf7d7cd24e1.jpg]]></iconOpen>
+			<name><![CDATA[Elden Lord]]></name>
+			<apiname><![CDATA[ach01]]></apiname>
+			<description><![CDATA[Achieved the "Elden Lord" ending]]></description>
+		</achievement>
+		<achievement closed="0">
+			<iconClosed><![CDATA[https://shared.fastly.steamstatic.com/community_assets/images/apps/1245620/7e7369bceba13739025766a72560fe9ce7ac56c9.jpg]]></iconClosed>
+			<iconOpen><![CDATA[https://shared.fastly.steamstatic.com/community_assets/images/apps/1245620/172885dcb6a82300de9f34e8833afdf7d7cd24e1.jpg]]></iconOpen>
+			<name><![CDATA[Age of the Stars]]></name>
+			<apiname><![CDATA[ach02]]></apiname>
+			<description><![CDATA[Achieved the "Age of the Stars" ending]]></description>
+		</achievement>
+		<achievement closed="0">
+			<iconClosed><![CDATA[https://shared.fastly.steamstatic.com/community_assets/images/apps/1245620/230fc53f4bc2d9bf39be031cc198be81508a9c47.jpg]]></iconClosed>
+			<iconOpen><![CDATA[https://shared.fastly.steamstatic.com/community_assets/images/apps/1245620/172885dcb6a82300de9f34e8833afdf7d7cd24e1.jpg]]></iconOpen>
+			<name><![CDATA[Lord of Frenzied Flame]]></name>
+			<apiname><![CDATA[ach03]]></apiname>
+			<description><![CDATA[Achieved the "Lord of Frenzied Flame" ending]]></description>
+		</achievement>
+		<achievement closed="0">
+			<iconClosed><![CDATA[https://shared.fastly.steamstatic.com/community_assets/images/apps/1245620/1e230f1a87d7139e854c47e52337f9d50856ac64.jpg]]></iconClosed>
+			<iconOpen><![CDATA[https://shared.fastly.steamstatic.com/community_assets/images/apps/1245620/172885dcb6a82300de9f34e8833afdf7d7cd24e1.jpg]]></iconOpen>
+			<name><![CDATA[Shardbearer Godrick]]></name>
+			<apiname><![CDATA[ach04]]></apiname>
+			<description><![CDATA[Defeated Shardbearer Godrick]]></description>
+		</achievement>
+		<achievement closed="0">
+			<iconClosed><![CDATA[https://shared.fastly.steamstatic.com/community_assets/images/apps/1245620/f5f1f41ef749459d9ac45750cd1f069d05fe1dd8.jpg]]></iconClosed>
+			<iconOpen><![CDATA[https://shared.fastly.steamstatic.com/community_assets/images/apps/1245620/172885dcb6a82300de9f34e8833afdf7d7cd24e1.jpg]]></iconOpen>
+			<name><![CDATA[Shardbearer Radahn]]></name>
+			<apiname><![CDATA[ach05]]></apiname>
+			<description><![CDATA[Defeated Shardbearer Radahn]]></description>
+		</achievement>
+		<achievement closed="0">
+			<iconClosed><![CDATA[https://shared.fastly.steamstatic.com/community_assets/images/apps/1245620/1ffc295a2cd48b88487d410025d081549d932b27.jpg]]></iconClosed>
+			<iconOpen><![CDATA[https://shared.fastly.steamstatic.com/community_assets/images/apps/1245620/172885dcb6a82300de9f34e8833afdf7d7cd24e1.jpg]]></iconOpen>
+			<name><![CDATA[Shardbearer Morgott]]></name>
+			<apiname><![CDATA[ach06]]></apiname>
+			<description><![CDATA[Defeated Shardbearer Morgott]]></description>
+		</achievement>
+		<achievement closed="0">
+			<iconClosed><![CDATA[https://shared.fastly.steamstatic.com/community_assets/images/apps/1245620/cb0aec39fcc664c4e586750177178b6814a52e0d.jpg]]></iconClosed>
+			<iconOpen><![CDATA[https://shared.fastly.steamstatic.com/community_assets/images/apps/1245620/172885dcb6a82300de9f34e8833afdf7d7cd24e1.jpg]]></iconOpen>
+			<name><![CDATA[Shardbearer Rykard]]></name>
+			<apiname><![CDATA[ach07]]></apiname>
+			<description><![CDATA[Defeated Shardbearer Rykard]]></description>
+		</achievement>
+		<achievement closed="0">
+			<iconClosed><![CDATA[https://shared.fastly.steamstatic.com/community_assets/images/apps/1245620/f704fcd82daf933dd3ce81c4d8ffea3ec65f26f4.jpg]]></iconClosed>
+			<iconOpen><![CDATA[https://shared.fastly.steamstatic.com/community_assets/images/apps/1245620/172885dcb6a82300de9f34e8833afdf7d7cd24e1.jpg]]></iconOpen>
+			<name><![CDATA[Shardbearer Malenia]]></name>
+			<apiname><![CDATA[ach08]]></apiname>
+			<description><![CDATA[Defeated Shardbearer Malenia]]></description>
+		</achievement>
+		<achievement closed="0">
+			<iconClosed><![CDATA[https://shared.fastly.steamstatic.com/community_assets/images/apps/1245620/a00f99e4944d09603d64996c5ade85264bcba22d.jpg]]></iconClosed>
+			<iconOpen><![CDATA[https://shared.fastly.steamstatic.com/community_assets/images/apps/1245620/172885dcb6a82300de9f34e8833afdf7d7cd24e1.jpg]]></iconOpen>
+			<name><![CDATA[Shardbearer Mohg]]></name>
+			<apiname><![CDATA[ach09]]></apiname>
+			<description><![CDATA[Defeated Shardbearer Mohg]]></description>
+		</achievement>
+		<achievement closed="0">
+			<iconClosed><![CDATA[https://shared.fastly.steamstatic.com/community_assets/images/apps/1245620/5148ee8ae04ed50667bcb39484ff2b716b07f4ff.jpg]]></iconClosed>
+			<iconOpen><![CDATA[https://shared.fastly.steamstatic.com/community_assets/images/apps/1245620/172885dcb6a82300de9f34e8833afdf7d7cd24e1.jpg]]></iconOpen>
+			<name><![CDATA[Maliketh the Black Blade]]></name>
+			<apiname><![CDATA[ach10]]></apiname>
+			<description><![CDATA[Defeated Maliketh the Black Blade]]></description>
+		</achievement>
+		<achievement closed="0">
+			<iconClosed><![CDATA[https://shared.fastly.steamstatic.com/community_assets/images/apps/1245620/f263ff23c384043efcb2932cc82e6fc395f57014.jpg]]></iconClosed>
+			<iconOpen><![CDATA[https://shared.fastly.steamstatic.com/community_assets/images/apps/1245620/172885dcb6a82300de9f34e8833afdf7d7cd24e1.jpg]]></iconOpen>
+			<name><![CDATA[Hoarah Loux, Warrior]]></name>
+			<apiname><![CDATA[ach11]]></apiname>
+			<description><![CDATA[Defeated Hoarah Loux, Warrior]]></description>
+		</achievement>
+		<achievement closed="0">
+			<iconClosed><![CDATA[https://shared.fastly.steamstatic.com/community_assets/images/apps/1245620/8f4f24760a906b21cf2ed65fa5fbcd2039c2f1ff.jpg]]></iconClosed>
+			<iconOpen><![CDATA[https://shared.fastly.steamstatic.com/community_assets/images/apps/1245620/172885dcb6a82300de9f34e8833afdf7d7cd24e1.jpg]]></iconOpen>
+			<name><![CDATA[Dragonlord Placidusax]]></name>
+			<apiname><![CDATA[ach12]]></apiname>
+			<description><![CDATA[Defeated Dragonlord Placidusax]]></description>
+		</achievement>
+		<achievement closed="0">
+			<iconClosed><![CDATA[https://shared.fastly.steamstatic.com/community_assets/images/apps/1245620/5525911000c82f6b8c540c9e65e89382449c1b0f.jpg]]></iconClosed>
+			<iconOpen><![CDATA[https://shared.fastly.steamstatic.com/community_assets/images/apps/1245620/172885dcb6a82300de9f34e8833afdf7d7cd24e1.jpg]]></iconOpen>
+			<name><![CDATA[God-Slaying Armament]]></name>
+			<apiname><![CDATA[ach13]]></apiname>
+			<description><![CDATA[Upgraded any armament to its highest stage]]></description>
+		</achievement>
+		<achievement closed="0">
+			<iconClosed><![CDATA[https://shared.fastly.steamstatic.com/community_assets/images/apps/1245620/212ba99b5c0bf79aca54dfc0a9767a108adc8f40.jpg]]></iconClosed>
+			<iconOpen><![CDATA[https://shared.fastly.steamstatic.com/community_assets/images/apps/1245620/172885dcb6a82300de9f34e8833afdf7d7cd24e1.jpg]]></iconOpen>
+			<name><![CDATA[Legendary Armaments]]></name>
+			<apiname><![CDATA[ach14]]></apiname>
+			<description><![CDATA[Acquired all legendary armaments]]></description>
+		</achievement>
+		<achievement closed="0">
+			<iconClosed><![CDATA[https://shared.fastly.steamstatic.com/community_assets/images/apps/1245620/5cba78ad7605d07fd096859b1f35715a9ac6218b.jpg]]></iconClosed>
+			<iconOpen><![CDATA[https://shared.fastly.steamstatic.com/community_assets/images/apps/1245620/172885dcb6a82300de9f34e8833afdf7d7cd24e1.jpg]]></iconOpen>
+			<name><![CDATA[Legendary Ashen Remains]]></name>
+			<apiname><![CDATA[ach15]]></apiname>
+			<description><![CDATA[Acquired all legendary ashen remains]]></description>
+		</achievement>
+		<achievement closed="0">
+			<iconClosed><![CDATA[https://shared.fastly.steamstatic.com/community_assets/images/apps/1245620/4cef1927bcb6fadbc7aeb703d40fa195cf78375a.jpg]]></iconClosed>
+			<iconOpen><![CDATA[https://shared.fastly.steamstatic.com/community_assets/images/apps/1245620/172885dcb6a82300de9f34e8833afdf7d7cd24e1.jpg]]></iconOpen>
+			<name><![CDATA[Legendary Sorceries and Incantations]]></name>
+			<apiname><![CDATA[ach16]]></apiname>
+			<description><![CDATA[Acquired all legendary sorceries and incantations]]></description>
+		</achievement>
+		<achievement closed="0">
+			<iconClosed><![CDATA[https://shared.fastly.steamstatic.com/community_assets/images/apps/1245620/717b3e0b44ad16b2e31a958edcaa3b4cd61de82b.jpg]]></iconClosed>
+			<iconOpen><![CDATA[https://shared.fastly.steamstatic.com/community_assets/images/apps/1245620/172885dcb6a82300de9f34e8833afdf7d7cd24e1.jpg]]></iconOpen>
+			<name><![CDATA[Legendary Talismans]]></name>
+			<apiname><![CDATA[ach17]]></apiname>
+			<description><![CDATA[Acquired all legendary talismans]]></description>
+		</achievement>
+		<achievement closed="0">
+			<iconClosed><![CDATA[https://shared.fastly.steamstatic.com/community_assets/images/apps/1245620/95a6c1398d842a3fdea1b43a14b33bef92dca09e.jpg]]></iconClosed>
+			<iconOpen><![CDATA[https://shared.fastly.steamstatic.com/community_assets/images/apps/1245620/172885dcb6a82300de9f34e8833afdf7d7cd24e1.jpg]]></iconOpen>
+			<name><![CDATA[Rennala, Queen of the Full Moon]]></name>
+			<apiname><![CDATA[ach18]]></apiname>
+			<description><![CDATA[Defeated Rennala, Queen of the Full Moon]]></description>
+		</achievement>
+		<achievement closed="0">
+			<iconClosed><![CDATA[https://shared.fastly.steamstatic.com/community_assets/images/apps/1245620/b0a0e29fb88941a9e81c937a22ce77f4e020b83e.jpg]]></iconClosed>
+			<iconOpen><![CDATA[https://shared.fastly.steamstatic.com/community_assets/images/apps/1245620/172885dcb6a82300de9f34e8833afdf7d7cd24e1.jpg]]></iconOpen>
+			<name><![CDATA[Lichdragon Fortissax]]></name>
+			<apiname><![CDATA[ach19]]></apiname>
+			<description><![CDATA[Defeated Lichdragon Fortissax]]></description>
+		</achievement>
+		<achievement closed="0">
+			<iconClosed><![CDATA[https://shared.fastly.steamstatic.com/community_assets/images/apps/1245620/17c6959cb3785bc29bf45cba5281485c1b1a6b94.jpg]]></iconClosed>
+			<iconOpen><![CDATA[https://shared.fastly.steamstatic.com/community_assets/images/apps/1245620/172885dcb6a82300de9f34e8833afdf7d7cd24e1.jpg]]></iconOpen>
+			<name><![CDATA[Godskin Duo]]></name>
+			<apiname><![CDATA[ach20]]></apiname>
+			<description><![CDATA[Defeated Godskin Duo]]></description>
+		</achievement>
+		<achievement closed="0">
+			<iconClosed><![CDATA[https://shared.fastly.steamstatic.com/community_assets/images/apps/1245620/943a8178f6fdd3f336caa1138d63bcf4985ab639.jpg]]></iconClosed>
+			<iconOpen><![CDATA[https://shared.fastly.steamstatic.com/community_assets/images/apps/1245620/172885dcb6a82300de9f34e8833afdf7d7cd24e1.jpg]]></iconOpen>
+			<name><![CDATA[Fire Giant]]></name>
+			<apiname><![CDATA[ach21]]></apiname>
+			<description><![CDATA[Defeated Fire Giant]]></description>
+		</achievement>
+		<achievement closed="0">
+			<iconClosed><![CDATA[https://shared.fastly.steamstatic.com/community_assets/images/apps/1245620/8e6a8ac9aa06923f2139f3308170f384989d5a82.jpg]]></iconClosed>
+			<iconOpen><![CDATA[https://shared.fastly.steamstatic.com/community_assets/images/apps/1245620/172885dcb6a82300de9f34e8833afdf7d7cd24e1.jpg]]></iconOpen>
+			<name><![CDATA[Dragonkin Soldier of Nokstella]]></name>
+			<apiname><![CDATA[ach22]]></apiname>
+			<description><![CDATA[Defeated Dragonkin Soldier of Nokstella]]></description>
+		</achievement>
+		<achievement closed="0">
+			<iconClosed><![CDATA[https://shared.fastly.steamstatic.com/community_assets/images/apps/1245620/49f02aee6962bf67151cb1b04d402ce33535db0b.jpg]]></iconClosed>
+			<iconOpen><![CDATA[https://shared.fastly.steamstatic.com/community_assets/images/apps/1245620/172885dcb6a82300de9f34e8833afdf7d7cd24e1.jpg]]></iconOpen>
+			<name><![CDATA[Regal Ancestor Spirit]]></name>
+			<apiname><![CDATA[ach23]]></apiname>
+			<description><![CDATA[Defeated Regal Ancestor Spirit]]></description>
+		</achievement>
+		<achievement closed="0">
+			<iconClosed><![CDATA[https://shared.fastly.steamstatic.com/community_assets/images/apps/1245620/b9255b2325bff7b02b289fb8899d305cc04a18bc.jpg]]></iconClosed>
+			<iconOpen><![CDATA[https://shared.fastly.steamstatic.com/community_assets/images/apps/1245620/172885dcb6a82300de9f34e8833afdf7d7cd24e1.jpg]]></iconOpen>
+			<name><![CDATA[Valiant Gargoyles]]></name>
+			<apiname><![CDATA[ach24]]></apiname>
+			<description><![CDATA[Defeated Valiant Gargoyles]]></description>
+		</achievement>
+		<achievement closed="0">
+			<iconClosed><![CDATA[https://shared.fastly.steamstatic.com/community_assets/images/apps/1245620/9844ceb487fa8702ef9fddf8cf09b3767d985a14.jpg]]></iconClosed>
+			<iconOpen><![CDATA[https://shared.fastly.steamstatic.com/community_assets/images/apps/1245620/172885dcb6a82300de9f34e8833afdf7d7cd24e1.jpg]]></iconOpen>
+			<name><![CDATA[Margit, the Fell Omen]]></name>
+			<apiname><![CDATA[ach25]]></apiname>
+			<description><![CDATA[Defeated Margit, the Fell Omen]]></description>
+		</achievement>
+		<achievement closed="0">
+			<iconClosed><![CDATA[https://shared.fastly.steamstatic.com/community_assets/images/apps/1245620/06bce66d7738ddd537a1c1d77a438df1e8c17b17.jpg]]></iconClosed>
+			<iconOpen><![CDATA[https://shared.fastly.steamstatic.com/community_assets/images/apps/1245620/172885dcb6a82300de9f34e8833afdf7d7cd24e1.jpg]]></iconOpen>
+			<name><![CDATA[Red Wolf of Radagon]]></name>
+			<apiname><![CDATA[ach26]]></apiname>
+			<description><![CDATA[Defeated the Red Wolf of Radagon]]></description>
+		</achievement>
+		<achievement closed="0">
+			<iconClosed><![CDATA[https://shared.fastly.steamstatic.com/community_assets/images/apps/1245620/c9624c5c976674a86d6e55a65f18203407acb4b4.jpg]]></iconClosed>
+			<iconOpen><![CDATA[https://shared.fastly.steamstatic.com/community_assets/images/apps/1245620/172885dcb6a82300de9f34e8833afdf7d7cd24e1.jpg]]></iconOpen>
+			<name><![CDATA[Godskin Noble]]></name>
+			<apiname><![CDATA[ach27]]></apiname>
+			<description><![CDATA[Defeated Godskin Noble]]></description>
+		</achievement>
+		<achievement closed="0">
+			<iconClosed><![CDATA[https://shared.fastly.steamstatic.com/community_assets/images/apps/1245620/4e39a0ef22f4d9a5a926708eeeecb7ec3c304591.jpg]]></iconClosed>
+			<iconOpen><![CDATA[https://shared.fastly.steamstatic.com/community_assets/images/apps/1245620/172885dcb6a82300de9f34e8833afdf7d7cd24e1.jpg]]></iconOpen>
+			<name><![CDATA[Magma Wyrm Makar]]></name>
+			<apiname><![CDATA[ach28]]></apiname>
+			<description><![CDATA[Defeated Magma Wyrm Makar]]></description>
+		</achievement>
+		<achievement closed="0">
+			<iconClosed><![CDATA[https://shared.fastly.steamstatic.com/community_assets/images/apps/1245620/a6d7519e52b8d5d76afa7fa0b6224a2d4e8dc678.jpg]]></iconClosed>
+			<iconOpen><![CDATA[https://shared.fastly.steamstatic.com/community_assets/images/apps/1245620/172885dcb6a82300de9f34e8833afdf7d7cd24e1.jpg]]></iconOpen>
+			<name><![CDATA[Godfrey, First Elden Lord]]></name>
+			<apiname><![CDATA[ach29]]></apiname>
+			<description><![CDATA[Defeated Godfrey, First Elden Lord]]></description>
+		</achievement>
+		<achievement closed="0">
+			<iconClosed><![CDATA[https://shared.fastly.steamstatic.com/community_assets/images/apps/1245620/1e69cda29e26389f87aef965ee21619aa92d859b.jpg]]></iconClosed>
+			<iconOpen><![CDATA[https://shared.fastly.steamstatic.com/community_assets/images/apps/1245620/172885dcb6a82300de9f34e8833afdf7d7cd24e1.jpg]]></iconOpen>
+			<name><![CDATA[Mohg, the Omen]]></name>
+			<apiname><![CDATA[ach30]]></apiname>
+			<description><![CDATA[Defeated Mohg, the Omen]]></description>
+		</achievement>
+		<achievement closed="0">
+			<iconClosed><![CDATA[https://shared.fastly.steamstatic.com/community_assets/images/apps/1245620/a991cf641f22feecca00c96ae773e31740535b2b.jpg]]></iconClosed>
+			<iconOpen><![CDATA[https://shared.fastly.steamstatic.com/community_assets/images/apps/1245620/172885dcb6a82300de9f34e8833afdf7d7cd24e1.jpg]]></iconOpen>
+			<name><![CDATA[Mimic Tear]]></name>
+			<apiname><![CDATA[ach31]]></apiname>
+			<description><![CDATA[Defeated Mimic Tear]]></description>
+		</achievement>
+		<achievement closed="0">
+			<iconClosed><![CDATA[https://shared.fastly.steamstatic.com/community_assets/images/apps/1245620/3204ffe67225f7e88207563ae204505c5eb1ca54.jpg]]></iconClosed>
+			<iconOpen><![CDATA[https://shared.fastly.steamstatic.com/community_assets/images/apps/1245620/172885dcb6a82300de9f34e8833afdf7d7cd24e1.jpg]]></iconOpen>
+			<name><![CDATA[Loretta, Knight of the Haligtree]]></name>
+			<apiname><![CDATA[ach32]]></apiname>
+			<description><![CDATA[Defeated Loretta, Knight of the Haligtree]]></description>
+		</achievement>
+		<achievement closed="0">
+			<iconClosed><![CDATA[https://shared.fastly.steamstatic.com/community_assets/images/apps/1245620/0433665a5dcab392aa2cf08a4e8c8eeb1d4d871a.jpg]]></iconClosed>
+			<iconOpen><![CDATA[https://shared.fastly.steamstatic.com/community_assets/images/apps/1245620/172885dcb6a82300de9f34e8833afdf7d7cd24e1.jpg]]></iconOpen>
+			<name><![CDATA[Astel, Naturalborn of the Void]]></name>
+			<apiname><![CDATA[ach33]]></apiname>
+			<description><![CDATA[Defeated Astel, Naturalborn of the Void]]></description>
+		</achievement>
+		<achievement closed="0">
+			<iconClosed><![CDATA[https://shared.fastly.steamstatic.com/community_assets/images/apps/1245620/41d6608783265cf28e2fa112bb51adbe90ad2086.jpg]]></iconClosed>
+			<iconOpen><![CDATA[https://shared.fastly.steamstatic.com/community_assets/images/apps/1245620/172885dcb6a82300de9f34e8833afdf7d7cd24e1.jpg]]></iconOpen>
+			<name><![CDATA[Leonine Misbegotten]]></name>
+			<apiname><![CDATA[ach34]]></apiname>
+			<description><![CDATA[Defeated the Leonine Misbegotten]]></description>
+		</achievement>
+		<achievement closed="0">
+			<iconClosed><![CDATA[https://shared.fastly.steamstatic.com/community_assets/images/apps/1245620/82008e9c90e7dce12eaf5b50571dc9511055d5f8.jpg]]></iconClosed>
+			<iconOpen><![CDATA[https://shared.fastly.steamstatic.com/community_assets/images/apps/1245620/172885dcb6a82300de9f34e8833afdf7d7cd24e1.jpg]]></iconOpen>
+			<name><![CDATA[Royal Knight Loretta]]></name>
+			<apiname><![CDATA[ach35]]></apiname>
+			<description><![CDATA[Defeated Royal Knight Loretta]]></description>
+		</achievement>
+		<achievement closed="0">
+			<iconClosed><![CDATA[https://shared.fastly.steamstatic.com/community_assets/images/apps/1245620/d34621523f32eee14947c698bb43ef92b09f0f59.jpg]]></iconClosed>
+			<iconOpen><![CDATA[https://shared.fastly.steamstatic.com/community_assets/images/apps/1245620/172885dcb6a82300de9f34e8833afdf7d7cd24e1.jpg]]></iconOpen>
+			<name><![CDATA[Elemer of the Briar]]></name>
+			<apiname><![CDATA[ach36]]></apiname>
+			<description><![CDATA[Defeated Elemer of the Briar]]></description>
+		</achievement>
+		<achievement closed="0">
+			<iconClosed><![CDATA[https://shared.fastly.steamstatic.com/community_assets/images/apps/1245620/8aa5c2120ca0ec1abd63fc4ab5afea919acadfc5.jpg]]></iconClosed>
+			<iconOpen><![CDATA[https://shared.fastly.steamstatic.com/community_assets/images/apps/1245620/172885dcb6a82300de9f34e8833afdf7d7cd24e1.jpg]]></iconOpen>
+			<name><![CDATA[Ancestor Spirit]]></name>
+			<apiname><![CDATA[ach37]]></apiname>
+			<description><![CDATA[Defeated Ancestor Spirit]]></description>
+		</achievement>
+		<achievement closed="0">
+			<iconClosed><![CDATA[https://shared.fastly.steamstatic.com/community_assets/images/apps/1245620/3c7586bd5b56c262aa837c4307eba8fc2ea2ad7f.jpg]]></iconClosed>
+			<iconOpen><![CDATA[https://shared.fastly.steamstatic.com/community_assets/images/apps/1245620/172885dcb6a82300de9f34e8833afdf7d7cd24e1.jpg]]></iconOpen>
+			<name><![CDATA[Commander Niall]]></name>
+			<apiname><![CDATA[ach38]]></apiname>
+			<description><![CDATA[Defeated Commander Niall]]></description>
+		</achievement>
+		<achievement closed="0">
+			<iconClosed><![CDATA[https://shared.fastly.steamstatic.com/community_assets/images/apps/1245620/f4e5fd19d3410470709632cd02b3136b5baca33d.jpg]]></iconClosed>
+			<iconOpen><![CDATA[https://shared.fastly.steamstatic.com/community_assets/images/apps/1245620/172885dcb6a82300de9f34e8833afdf7d7cd24e1.jpg]]></iconOpen>
+			<name><![CDATA[Roundtable Hold]]></name>
+			<apiname><![CDATA[ach39]]></apiname>
+			<description><![CDATA[Arrived at Roundtable Hold]]></description>
+		</achievement>
+		<achievement closed="0">
+			<iconClosed><![CDATA[https://shared.fastly.steamstatic.com/community_assets/images/apps/1245620/3881b1c355ffcc122655c134f988d6c1265cd8c9.jpg]]></iconClosed>
+			<iconOpen><![CDATA[https://shared.fastly.steamstatic.com/community_assets/images/apps/1245620/172885dcb6a82300de9f34e8833afdf7d7cd24e1.jpg]]></iconOpen>
+			<name><![CDATA[Great Rune]]></name>
+			<apiname><![CDATA[ach40]]></apiname>
+			<description><![CDATA[Restored the power of a Great Rune]]></description>
+		</achievement>
+		<achievement closed="0">
+			<iconClosed><![CDATA[https://shared.fastly.steamstatic.com/community_assets/images/apps/1245620/ee980470a382cd7e1ac70fca82d5e46e2c328c21.jpg]]></iconClosed>
+			<iconOpen><![CDATA[https://shared.fastly.steamstatic.com/community_assets/images/apps/1245620/172885dcb6a82300de9f34e8833afdf7d7cd24e1.jpg]]></iconOpen>
+			<name><![CDATA[Erdtree Aflame]]></name>
+			<apiname><![CDATA[ach41]]></apiname>
+			<description><![CDATA[Used kindling to set the Erdtree aflame]]></description>
+		</achievement>
+	</achievements>
+</playerstats>

@@ -1,0 +1,11 @@
+services:
+  steam-scraper:
+    build: .
+    restart: unless-stopped
+    ports:
+      - "8000:8000"
+    environment:
+      - PORT=8000
+      # Optional — Steam only rate-limits bursts, so leave these unset.
+      # - STEAM_PROXY=http://user:pass@host:port
+      # - STEAM_FALLBACK_PROXY=http://user:pass@host:port
